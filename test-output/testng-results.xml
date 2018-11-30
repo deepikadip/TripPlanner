@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43185" started-at="2018-11-30T05:34:38Z" finished-at="2018-11-30T05:35:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43185" started-at="2018-11-30T05:34:38Z" finished-at="2018-11-30T05:35:21Z">
+      <class name="automationFramework.TestNG_TC_TripReqExec">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:automationFramework.TestNG_TC_TripReqExec@27efef64]" name="beforeMethod" is-config="true" duration-ms="12391" started-at="2018-11-30T11:04:38Z" finished-at="2018-11-30T11:04:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="main()[pri:0, instance:automationFramework.TestNG_TC_TripReqExec@27efef64]" name="main" duration-ms="4924" started-at="2018-11-30T11:04:51Z" finished-at="2018-11-30T11:04:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:automationFramework.TestNG_TC_TripReqExec@27efef64]" name="afterMethod" is-config="true" duration-ms="25799" started-at="2018-11-30T11:04:55Z" finished-at="2018-11-30T11:05:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- automationFramework.TestNG_TC_TripReqExec -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
